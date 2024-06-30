@@ -1,2 +1,2 @@
-# tailwind-battle
+# Tailwind Battle
 My Tailwind Battle attempts.
